@@ -32,3 +32,6 @@ button:hover {
     font-family: 'Courier New', Courier, monospace;
     white-space: pre-wrap;
 }
+#github {
+    float: center;
+}
