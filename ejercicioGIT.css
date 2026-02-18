@@ -35,3 +35,10 @@ button:hover {
 #github {
     float: center;
 }
+
+::-webkit-slider-runnable-track {
+    background: linear-gradient(45deg, #ff6b6b, #f06595, #f0e130);
+    border: 2px solid #ff6b6b;
+    border-radius: 10px;
+    height: 10px;
+}       
